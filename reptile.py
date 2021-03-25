@@ -17,5 +17,5 @@ class Reptile(Animal):  # We Need to pass the animal class as an arg in our rept
         return "Looking for sun"
 
 reptile_object = Reptile()
-print(reptile_object.hunt())
-print(reptile_object.breathe())
+# print(reptile_object.hunt())
+# print(reptile_object.breathe())
